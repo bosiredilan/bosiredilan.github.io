@@ -46,8 +46,6 @@ I am a data-driven professional with expertise in **data science, analytics, and
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](www.linkedin.com/in/dilan-bosire-329a81323
-
-) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/dilan-bosire-329a81323/) 
 - 🐙 [GitHub](https://github.com/bosiredilan)
 - 📧 Email: bosiredilan54@gmail.com  
