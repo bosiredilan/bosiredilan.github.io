@@ -19,7 +19,8 @@ I am a data-driven professional with expertise in **data science, analytics, and
 ### 🛳 Titanic Survival Prediction  
 - Built a logistic regression model to predict passenger survival.  
 - **Skills:** Data Cleaning, Feature Engineering, Machine Learning  
-- **Tools:** Python, Pandas, Scikit-learn  
+- **Tools:** Python, Pandas, Scikit-learn
+- 🔗 [GitHub Repo](https://github.com/bosiredilan/Titanic-Survival-Prediction)  
 
 ### 📈 Sales Dashboard (Power BI)  
 - Designed an interactive dashboard analyzing regional sales performance.  
