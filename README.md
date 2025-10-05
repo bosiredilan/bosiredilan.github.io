@@ -34,6 +34,7 @@ I am a data-driven professional with expertise in **data science, analytics, and
 	-Proportion of medical procedures covered by insurance.
 
 -Skills: Data Cleaning, Data Merging, Exploratory Data Analysis (EDA), Visualization
+
 -Tools: Python, Pandas, Matplotlib, Seaborn
 - 🔗 [GitHub Repo](https://github.com/bosiredilan/Hospital-Patient-Records-Analytics-Project) 
   
