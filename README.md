@@ -26,9 +26,13 @@ I am a data-driven professional with expertise in **data science, analytics, and
 - Analyzed hospital admission records to uncover patient trends and healthcare costs.
 - Key Insights:
 	-Trends in patient admissions & readmissions over time.
+
 	-Average hospital stay duration per patient.
+
 	-Average cost per visit.
+
 	-Proportion of medical procedures covered by insurance.
+
 -Skills: Data Cleaning, Data Merging, Exploratory Data Analysis (EDA), Visualization
 -Tools: Python, Pandas, Matplotlib, Seaborn
 - 🔗 [GitHub Repo](https://github.com/bosiredilan/Hospital-Patient-Records-Analytics-Project) 
